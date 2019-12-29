@@ -6,3 +6,5 @@
 
 # Code (feature 4)
 # Documentations (feature 4)
+
+# Hot fix 1 code
